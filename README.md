@@ -39,7 +39,7 @@ python predict.py --weights runs/train-seg/exp/weights/best.pt --source path/to/
 
 ## Results
 
-https://github.com/your-username/your-repo/assets/12345/your-video.mp4
+https://github.com/aidevveloper/assets/demo.mp4
 
 
 ## License
