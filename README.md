@@ -39,7 +39,7 @@ python predict.py --weights runs/train-seg/exp/weights/best.pt --source path/to/
 
 ## Results
 
-<img src="https://github.com/aidevveloper/YOLOv5-seg-pt/blob/main/assets/demo.gif?raw=true" width="720" height="936">
+<img src="https://github.com/aidevveloper/YOLOv5-seg-pt/blob/main/assets/demo.gif?raw=true" width="360" height="468">
 
 ## License
 
