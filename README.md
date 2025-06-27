@@ -39,8 +39,10 @@ python predict.py --weights runs/train-seg/exp/weights/best.pt --source path/to/
 
 ## Results
 
-https://github.com/aidevveloper/YOLOv5-seg-pt/blob/main/assets/demo.mp4
-
+<video width="640" height="480" controls>
+  <source src="assets\demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## License
 
